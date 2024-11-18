@@ -1,7 +1,4 @@
 @media (max-width: 400px) {
-    body {
-        justify-items: center;
-    }
     .container {
         min-width: 90vw;
     }
