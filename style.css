@@ -1,6 +1,7 @@
 @media (max-width: 400px) {
     .container {
         min-width: 90vw;
+        height: 20vh;
     }
 
     .image {
